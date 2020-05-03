@@ -1,0 +1,16 @@
+{
+  "name": "tweet-bot",
+  "version": "1.0.0",
+  "description": "This is a demo app for get to know how twitter bot can work.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maulik Sompura",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1"
+  }
+}
